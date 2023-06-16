@@ -1,0 +1,20 @@
+body{
+    color: blue;
+    font-family: arial;
+}
+
+.square{
+    list-style-type: square;
+}
+.circle{
+    list-style-type: circle;
+}
+.img{
+list-style-image: url(seta_azul.gif);
+}
+.I{
+    list-style-type: lower-roman;
+}
+.a{
+    list-style-type: lower-alpha;
+}

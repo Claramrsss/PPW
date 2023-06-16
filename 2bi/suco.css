@@ -1,0 +1,21 @@
+body{
+    font-family: arial; color: #007e7e; margin-left:10%;
+    margin-right: 10%;
+}
+
+.center{
+    text-align: center;
+    color:silver;
+}
+#v{
+    color:rgb(5, 134, 5);
+}
+#a{
+    color: blue;
+}
+#r{
+    color: purple;
+}
+#vm{
+    color: red;
+}
