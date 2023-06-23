@@ -6,22 +6,22 @@ body{
     margin-right:50%;
     margin-top: 10%;
     }
-    h3,p{
+    h3{
         color: green;
         
         
     }
-    h4,p{
+    h4{
         color: silver;
    
        
     }
-    h5,p{
+    h5{
         color: red;
         
      
     }
-    h6,p{
+    h6{
         color: blue;
         
        
